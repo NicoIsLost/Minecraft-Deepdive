@@ -15,7 +15,9 @@ This is truly meant to be a community effort, and we will accept any contributio
 
 ## What are the requirements?
 
-There are few requirements, but on a general basis we would like articles to be as exhaustive as possible, going into detailed beyond the level of say a public wiki. It is also required that the information presented is accurate and verifiable. 
+There are few requirements, but on a general basis we would like articles to be as exhaustive as possible, going into detailed beyond the level of say a general public wiki. It is also required that the information presented is accurate and verifiable. 
+
+For the level of detailed required, please reference the existing articles. They can be a different format, that is OK. 
 
 ## Code Mappings References
 One of the goals of this project is to also be a reference for people who are interested in code digging, as such we encourage people to add a section that explains the source code, including the mapping names and their functions. Per the Minecraft TOS we cannot post the code itself, but a written description is OK.
