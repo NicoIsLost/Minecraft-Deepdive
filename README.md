@@ -28,7 +28,7 @@ While there are no hard requirements for contributions, please look at the exist
 
 **Some things that would be very helpful are:**
 - New articles on under-covered, or often misunderstood topics.
-- **CODE DIGGERS** I have a dream to have code explanations as part of this collection. Particularly explanation of the code's flow, and references to the key method's public mappings. I am working toward being at to do this myself, but experienced code diggers would be very highly appreciated!
+- **CODE DIGGERS** I have a dream to have code explanations as part of this collection. Particularly explanation of the code's flow, and references to the key method's public mappings. I am working towards doing this myself, but experienced code diggers would be very highly appreciated!
 - Grammar, spelling, etc...
 - Updating existing articles. 
 - General feedback is always highly appreciated! 
@@ -40,7 +40,8 @@ Even so, I have some small plans for content, and if you want to start contribut
 
 **Here are my current personal plans for articles / topics:**
 - Designing High Efficiency Iron Farms
-- How Minecraft loads chunks
+- Fabric Modding Beginner Tutorial
+- How Minecraft Loads Chunks
 - Some future planned topics that I won't reveal until the video is published.
 
 Most of my articles will likely correspond with my YouTube Channel as that is the reason I usually start deep-dives. 
