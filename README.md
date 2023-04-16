@@ -20,7 +20,7 @@ In reality, that is really hard to execute and maintain. So for the start it wil
 I plan on inviting and encouraging others, and also incorporating content available elsewhere that fits well. So the goal will still be there, but in a more passive way. In the end, it's the old trope: "How do you east an elephant?... One bite at a time". 
 
 # I'm interested in helping!
-**AWESOME!** I would really appreciate that. You can either join my discord server and contact me directly, or you can fork and pull-request directly. 
+**AWESOME!** I would really appreciate that. You can either join my discord server and contact me via message request or ping, or you can fork and pull-request directly. 
 
 [![Discord](https://img.shields.io/discord/918887116455432222?label=%20Discord&logo=Discord&logoColor=%23fff&color=%235865F2)](https://discord.gg/g9wJSmtnF4)
 
